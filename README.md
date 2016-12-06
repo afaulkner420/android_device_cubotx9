@@ -1,3 +1,5 @@
+# Cubot X9 (mt6592)
+
 # Build
 
 * Working
